@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-The original application server for Lostinsound.Live. Based in python-flask, the server loads a page that then updates via ajax promises between clients the REST api on the server.
+The original application server for Lostinsound.Live. Based in python-flask, the server loads a page that then updates via ajax promises between clients and server.
 
 The main function of the server is to place a live stream video on the page given the stream is scheduled on a Google Calendar, and currently live on the 3rd party platform. 3rd parties include Twitch, and YouTube.
 
